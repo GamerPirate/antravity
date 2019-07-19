@@ -1,2 +1,0 @@
-# antravity
-GitHub Pages
