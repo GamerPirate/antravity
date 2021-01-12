@@ -1094,7 +1094,7 @@ section.lazy-placeholder:after {
 .cid-rv4hCb0ZAj {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/thunder-lowrider-cover.png");
+  background-image: url("../../../assets/images/kinzy18.png");
 }
 .cid-rwAJ2T5xy9 {
   padding-top: 15px;
@@ -1119,6 +1119,32 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 767px) {
   .cid-rwAJ2T5xy9 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-slUFVy8mrP {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #000000;
+}
+.cid-slUFVy8mrP .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-slUFVy8mrP .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-slUFVy8mrP .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-slUFVy8mrP .mbr-text {
     text-align: center;
   }
 }
@@ -1147,22 +1173,6 @@ section.lazy-placeholder:after {
   .cid-rwAHjD47vp .mbr-text {
     text-align: center;
   }
-}
-.cid-sdcmOvZbGX {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/coming-812021-no-platforms.png");
-}
-.cid-sdcmAJdfK1 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #000000;
-}
-.cid-sdcmAJdfK1 P {
-  color: #767676;
-}
-.cid-sdcmAJdfK1 H1 {
-  color: #ffffff;
 }
 .cid-rv4i9rsq9U {
   padding-top: 75px;
