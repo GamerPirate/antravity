@@ -52,7 +52,9 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "file:///G:/Gamer%20Pirate/Extras/Website/Data/ANTRAVITY/20210112"
   },
   "pages": {
     "index.html": {
